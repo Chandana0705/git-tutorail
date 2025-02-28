@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Hi -dev
+=======
+hello chandu
+
+>>>>>>> origin/master
